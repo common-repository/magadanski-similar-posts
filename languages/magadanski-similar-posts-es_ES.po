@@ -1,0 +1,105 @@
+# Copyright (C) 2016 M Similar Posts
+# This file is distributed under the same license as the M Similar Posts package.
+msgid ""
+msgstr ""
+"Project-Id-Version: M Similar Posts 1.2.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/magadanski-"
+"similar-posts\n"
+"POT-Creation-Date: 2020-03-27T14:33:52+00:00\n"
+"PO-Revision-Date: 2020-03-27 16:37+0200\n"
+"Last-Translator: Georgi Popov <magadanski_uchen@yahoo.com>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n:1,2;esc_attr_e;esc_html_e;_n_noop:1,2;"
+"_nx:1,2;_nx_noop:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#. Plugin Name of the plugin
+#: magadanski-similar-posts.php:396
+msgid "M Similar Posts"
+msgstr "M Similar Posts"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/magadanski-similar-posts/"
+msgstr "http://wordpress.org/plugins/magadanski-similar-posts/"
+
+#. Description of the plugin
+msgid "Shows similar posts ordered by the number of common categories."
+msgstr ""
+"Muestra mensajes similares ordenados por el número de categorías comunes."
+
+#. Author of the plugin
+msgid "Georgi Popov a.k.a. Magadanski_Uchen"
+msgstr "Georgi Popov -- Magadanski_Uchen"
+
+#. Author URI of the plugin
+msgid "http://magadanski.com/"
+msgstr "http://magadanski.com/"
+
+#: magadanski-similar-posts.php:399
+msgid "Content"
+msgstr "Contenido"
+
+#: magadanski-similar-posts.php:404
+msgid "Limit"
+msgstr "Límite"
+
+#: magadanski-similar-posts.php:407
+msgid "Maximum number of similar items to display"
+msgstr "Número máximo de elementos similares para mostrar"
+
+#: magadanski-similar-posts.php:412
+msgid "Post Type"
+msgstr "Típo de post"
+
+#: magadanski-similar-posts.php:415
+msgid "The type of post to show similar entries from"
+msgstr "Tipo común de mensaje para mostrar entradas similares de"
+
+#: magadanski-similar-posts.php:420 blocks/src/edit.jsx:58
+msgid "Taxonomy"
+msgstr "Taxonomía"
+
+#: magadanski-similar-posts.php:423
+msgid "Taxonomy the similarity should be based on"
+msgstr "Taxonomía debe basarse en la similitud"
+
+#: Magadanski_Similar_Posts_Widget.php:19
+msgid "Similar Posts"
+msgstr "Posts similares"
+
+#: Magadanski_Similar_Posts_Widget.php:21
+msgid "A list of similar posts"
+msgstr "Listado de posts similares"
+
+#: Magadanski_Similar_Posts_Widget.php:93
+msgid "Title:"
+msgstr "Título:"
+
+#: Magadanski_Similar_Posts_Widget.php:98
+msgid "Limit:"
+msgstr "Límite:"
+
+#: Magadanski_Similar_Posts_Widget.php:103
+msgid "Post Type:"
+msgstr "Típo de post:"
+
+#: Magadanski_Similar_Posts_Widget.php:118
+msgid "Taxonomy:"
+msgstr "Taxonomía:"
+
+#: blocks/src/edit.jsx:56
+msgid "Similarity Settings"
+msgstr "Configuraciones de similitud"
+
+#: blocks/src/edit.jsx:65
+msgid "Maximum number of entries to show"
+msgstr "Número máximo de elementos similares para mostrar"

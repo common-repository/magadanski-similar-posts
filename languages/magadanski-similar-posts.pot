@@ -1,0 +1,97 @@
+# Copyright (C) 2020 Georgi Popov a.k.a. Magadanski_Uchen
+# This file is distributed under the same license as the M Similar Posts plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: M Similar Posts 1.3.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/magadanski-similar-posts\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-03-27T19:30:45+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: magadanski-similar-posts\n"
+
+#. Plugin Name of the plugin
+#: magadanski-similar-posts.php:396
+msgid "M Similar Posts"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/magadanski-similar-posts/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Shows similar posts ordered by the number of common categories."
+msgstr ""
+
+#. Author of the plugin
+msgid "Georgi Popov a.k.a. Magadanski_Uchen"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://magadanski.com/"
+msgstr ""
+
+#: magadanski-similar-posts.php:399
+msgid "Content"
+msgstr ""
+
+#: magadanski-similar-posts.php:404
+msgid "Limit"
+msgstr ""
+
+#: magadanski-similar-posts.php:407
+msgid "Maximum number of similar items to display"
+msgstr ""
+
+#: magadanski-similar-posts.php:412
+msgid "Post Type"
+msgstr ""
+
+#: magadanski-similar-posts.php:415
+msgid "The type of post to show similar entries from"
+msgstr ""
+
+#: magadanski-similar-posts.php:420
+#: blocks/src/edit.js:58
+msgid "Taxonomy"
+msgstr ""
+
+#: magadanski-similar-posts.php:423
+msgid "Taxonomy the similarity should be based on"
+msgstr ""
+
+#: Magadanski_Similar_Posts_Widget.php:19
+msgid "Similar Posts"
+msgstr ""
+
+#: Magadanski_Similar_Posts_Widget.php:21
+msgid "A list of similar posts"
+msgstr ""
+
+#: Magadanski_Similar_Posts_Widget.php:93
+msgid "Title:"
+msgstr ""
+
+#: Magadanski_Similar_Posts_Widget.php:98
+msgid "Limit:"
+msgstr ""
+
+#: Magadanski_Similar_Posts_Widget.php:103
+msgid "Post Type:"
+msgstr ""
+
+#: Magadanski_Similar_Posts_Widget.php:118
+msgid "Taxonomy:"
+msgstr ""
+
+#: blocks/src/edit.js:56
+msgid "Similarity Settings"
+msgstr ""
+
+#: blocks/src/edit.js:65
+msgid "Maximum number of entries to show"
+msgstr ""
